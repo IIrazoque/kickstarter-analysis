@@ -14,7 +14,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Challenges and Difficulties Encountered
 
-### Challenges encountered for the first analysis are the findings are strictly to campaigns with theater in mind. If we break down the theater category into it's subcategory we have different data story telling for musical, plays and spaces. Keep in mind this analysis is not applicable for other categories such as Technology. View image [ ] for additional details - no true seasonal peak is observed as it is for Theater.
+### Challenges encountered for the first analysis are the findings are strictly to campaigns with theater in mind. If we break down the theater category into it's subcategory we have different data story telling for musical, plays and spaces. Keep in mind this analysis is not applicable for other categories such as Technology. View image [Technology_Outcomes_vs_Launch.png] for additional details - no true seasonal peak is observed as it is for Theater.
 
 ### Another challenge encountered in the second analysis funding goals is that it is redundant. Although more successful plays were seen in the low goal, there was also that chance that they could fail. We looked at the number of backers and average donations but these values are not in correlation to success rates. We also saw two plays from a total of 12 were successful, yet being in the highest bucket goal of $50,000 goal plays.
 
